@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Sipas</string>
+    <string name="lorem_ipsum">Lorem Ipsum Amet Dolor</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="lewati">Lewati</string>
+
+    <!--RegisterActivityString-->
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="daftar_akun_description">Daftarkan akunmu agar dapat menggunakan layanan pada aplikasi kami</string>
+    <string name="input_ibu_hint">Nama Lengkap Ibu</string>
+    <string name="input_ayah_hint">Nama Lengkap Ayah</string>
+    <string name="input_ibu_description">Masukkan nama Ibu Anda</string>
+    <string name="input_ayah_description">Masukkan nama Ayah Anda</string>
+    <string name="input_email_hint">Email</string>
+    <string name="input_email_decsritpion">Masukkan Alamat Email Aktif Anda</string>
+    <string name="input_password_description">Masukkan Kata Sandi Yang Anda Ingin Buat</string>
+    <string name="input_password_hint">Password</string>
+    <string name="register_button_content">Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun? <font color='#682860'>Masuk</font></string>
+
+    <!--Login.kt-->
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="login">Login</string>
+    <string name="login_description">Masuk ke akun Anda untuk dapat menggunakan layanan kami</string>
+    <string name="login_email_placeholder">Email</string>
+    <string name="login_password_placeholder">Password</string>
+    <string name="login_email_helper">Pastikan alamat emailnya telah terverifikasi</string>
+    <string name="login_password_helper">Pastikan kata sandi yang dimasukkan benar</string>
+    <string name="login_lupa_password">Lupa Kata Sandi</string>
+    <string name="login_belum_punya_akun">Belum punya akun? <font color='#682860'>Daftar</font></string>
+
+    <!--Home.kt-->
+    <string name="home_layanan_kami">Layanan Kami</string>
+    <string name="home_description">Berikut adalah layanan bantuan yang dapat Anda gunakan untuk mencegah stunting pada anak</string>
+    
+    <!--Profile.kt-->
+    <string name="profile_nama_ayah_ibu_hint">Masukkan sesuai dengan nama anda di KTP</string>
+    <string name="profile_email_hint">Masukkan alamat email aktif anda</string>
+    <string name="profile_nomor_telepon_placeholder">Nomor Telepon</string>
+    <string name="profile_nomor_telepon_hint">Masukkan nomor telepon aktif Anda</string>
+    <string name="profile_simpan_perubahan">Simpan Perubahan</string>
+</resources>
